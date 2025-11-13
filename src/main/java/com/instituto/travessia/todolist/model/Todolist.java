@@ -23,7 +23,6 @@ public class Todolist {
     @NotBlank(message = "O status é obrigatório (pendente, em andamento ou concluido)")
     private String status;
 
-    // Getters e setters
     public Long getId() {
         return id;
     }
