@@ -23,6 +23,17 @@ Mini lista de tarefas desenvolvida em **Java Spring Boot**, usando **H2 Database
 - Swagger/Postman (OpenAPI) 📖
 
 ---
+## 📦 Dependências
+
+O projeto utiliza as seguintes dependências, gerenciadas pelo Maven no arquivo `pom.xml`:
+
+- **Spring Boot Starter Web**: Para criação da API REST.
+- **Spring Boot Starter Data JPA**: Para integração com o banco de dados H2.
+- **Spring Boot DevTools**: Para facilitar o desenvolvimento com recarga automática.
+- **H2 Database**: Banco de dados em memória.
+- **SpringDoc OpenAPI Starter WebMVC UI**: Documentação da API via Swagger.
+
+---
 
 ## 🔗 Endpoints
 
